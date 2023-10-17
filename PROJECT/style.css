@@ -1,0 +1,33 @@
+.nav { 
+  list-style-type: none;
+  text-align: center;
+  margin:0;
+  padding:0;
+color:white; 
+display:flex;
+}
+.nav li{
+display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+.backvideo{
+position:absolute;
+right:0;
+bottom:0;
+z-index:-1;
+width:100%;
+height:auto;
+backgroun-attachment:fixed;
+}
+.H1{
+color:white;
+border-style:none;
+ padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+img.b {
+  vertical-align: text-top;
+}

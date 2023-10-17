@@ -1,0 +1,14 @@
+body{
+    background-image: url(foodweb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll; 
+}
+    .nav {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      
